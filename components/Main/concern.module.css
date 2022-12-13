@@ -1,0 +1,47 @@
+.container{
+    background-image: url("https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+    justify-content: center;
+    font-family: Laterata;
+    margin: 0;
+
+}
+
+.container input{
+    width: 510px;
+    height: 250px;
+    border-radius:10px;
+    margin-top: 10px;  
+    position: relative;
+    left: 600px;
+    top: -600px;
+}
+.container h5{
+    color: white;
+    width: 400px;
+    height: 420px;
+    font-size: 23px;
+    display: inline-block;
+    margin-left:200px;
+    margin-top: 230px;
+ 
+}
+.container button{
+    position: relative;
+    left: 1000px;
+    width: 100px;
+    height: 55px;
+    background-color: #FFC2A0;
+    border-radius: 500px;
+    font-weight: bold;
+    border: none;
+    top: -590px;
+}
+
+.container button:hover{
+    background-color: #e06c2e;
+}
+  

@@ -1,0 +1,68 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-image: url("https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 100vh;
+    background-size: cover;
+}
+.container h1 {
+    color: white;
+    margin-left: 38%;
+   
+    margin-bottom: 20%;
+    font-size: 80px;
+}
+.RIGHT h6 {
+    color: white;
+    font-weight: normal;
+    font-size: 15px;
+    margin-bottom: -2px;
+}
+.container h6,.container input, .container button {
+    margin-left: 30%;
+    height: 24px;
+
+}
+.container input {
+    width: 50%;
+    height: 25px;
+    border: .8px solid black;
+    border-radius: 10px;
+
+
+}
+.container button {
+    width: 25%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 43px;
+    border: 8px solid black;
+    font-size: 15px;
+    color: black;
+}
+.LEFT {
+    width: 100%;
+    
+}
+.RIGHT {
+    width: 100%;
+    margin-left: 20px;
+}
+.RIGHT button{
+    width: 15%;
+    height: 45px;
+    margin-left: 270px;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+.RIGHT button:hover{
+    background-color: blue;
+    color: white;
+}
+.image {
+    margin-bottom: 38%;
+    margin-left: 15px;
+}
+.image:hover{
+    transform: scale(1.05);
+}

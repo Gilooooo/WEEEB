@@ -1,0 +1,198 @@
+ .container {
+  
+  align-items: center;
+  font-family: 'literata';
+  background-size: cover;
+  position: relative;
+  background-image: url("https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    height: 100vh;
+    
+
+  
+
+ }
+ 
+
+ 
+.subscription0 h1{
+  
+  color: rgb(255, 255, 255);
+
+  font-size: 30px;
+  margin-left: 550px;
+  white-space: nowrap;
+  margin-bottom: 480px;
+
+  
+
+}
+
+.subscription0 h3{
+  color: rgb(255, 255, 255);
+
+  font-size: 30px;
+  margin-left: 483px;
+  white-space: nowrap;
+  position: absolute;
+  top: 75px;
+  
+  
+
+  
+
+}
+
+.subscription1{
+  margin-top: 120px;
+  background-color: #7ED67D;
+  ;
+  padding: 18px;
+  width: 275px;
+  height: 420px;
+  margin-left: 345px;
+  border-radius: 35px;
+  position: absolute;
+  
+  
+  
+}
+.subscription1 p{
+  color: black;
+  font-size: large;
+  text-align: center;
+  
+
+  
+  
+}
+.subscription1 a{
+  color: rgb(211, 91, 91);
+  margin-left: 25px;
+  font-size: 40px;
+  
+}
+
+.subscription0 h5{
+  color: black;
+  text-align: justify;
+  
+  font-size: 15px;
+  
+
+
+}
+.subscription1 p{
+  color: black;
+  
+  font-size: 30px;
+  
+  
+}
+.subscription1 h2{
+  color: black; 
+  text-align: justify;
+  overflow-wrap: normal;
+  font-size: 18px;
+  
+
+}
+.subscription1 h6{
+  color: rgb(68, 66, 66); 
+  text-align: justify;
+  overflow-wrap: normal;
+ 
+  
+
+
+
+}
+.subscription1 button{
+  
+  width: 180px;
+  height: 65px;
+  border: none;
+  border-radius: 100px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: #471313;
+ 
+
+
+}
+
+.subscription1 button:hover{
+    cursor: pointer;
+    background: rgb(109, 60, 60);
+
+}
+.subscription1 a{
+  color: rgb(211, 91, 91);
+  
+  font-size: 40px;
+ 
+
+}
+
+
+.subscription2 {
+  background-color: #9DF034;
+  margin-top: 120px;
+  padding: 10px;
+  width: 275px;
+  height: 420px;
+  margin-left: 675px;
+  border-radius: 35px;
+  position: absolute;
+  
+  
+  
+
+  
+  
+}
+.subscription2 p {
+  color: black;
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+.subscription2 h2 {
+  color: black; 
+  text-align: justify;
+  overflow-wrap: normal;
+  font-size: 18px;
+}
+
+.subscription2 button {
+  width: 180px;
+  height: 65px;
+  border: none;
+  border-radius: 100px;
+  margin-top: 25px;
+
+  margin-left: 35px;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: #471313;
+}
+
+.subscription2 button:hover{
+  cursor: pointer;
+  background: rgb(109, 60, 60);
+}
+  
+.subscription2 a {
+  color: rgb(211, 91, 91);
+  
+  font-size: 40px;
+}
+
+.subscription2 h6{
+  text-align: center;
+  margin-top: 5px;
+}
