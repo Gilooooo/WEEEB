@@ -41,7 +41,7 @@ export default function LOGIN({LogiN, error}) {
         
         <div className={styles.container}>
         <div className={styles.image}>
-        <a href="http://localhost:3000/WEB">
+        <a href="https://eos-website.vercel.app">
         <button>
         <img src = "LOGO.png"></img>
         </button>
@@ -66,10 +66,10 @@ export default function LOGIN({LogiN, error}) {
         </div>
     
         <div className ={styles.TEXT}>
-            <a href="http://localhost:3000/reg">
+            <a href="https://eos-website.vercel.app/reg">
             <button>CREATE ACCOUNT</button>
             </a>
-        <a href="http://localhost:3000/fpass"> 
+        <a href="https://eos-website.vercel.app/fpass"> 
         <button>FORGOT PASSWORD</button>
         </a>
         </div>
