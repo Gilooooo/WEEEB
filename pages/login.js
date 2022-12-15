@@ -1,4 +1,4 @@
-import Data from "../components/Login/login";
+import Data from "../components/Login/data";
 export default function (){
   return(
     <div>

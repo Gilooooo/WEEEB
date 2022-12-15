@@ -12,11 +12,11 @@ export default function NAV() {
         </div>
       <div className={styles.navbarActions}>
         <div className={styles.login}>
-        <a href="http://localhost:3000/login">
+        <a href="http://localhost:3000/WEB">
         <button>Login</button>
         </a>
         </div>
-        <a href="http://localhost:3000/reg"><button>Register</button></a>
+        <a href="http://localhost:3000/WEB"><button>Register</button></a>
         <button>Contact</button>
       </div>
     </div>

@@ -29,7 +29,7 @@ export default function Fpass() {
             width:300
 
         }).then(function(){
-            window.location = "http://localhost:3000/login";
+            window.location = "http://localhost:3000/WEB";
         });
     }
    
