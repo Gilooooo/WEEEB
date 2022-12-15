@@ -8,6 +8,7 @@
     margin-right: 1200px;
     transition: 400ms;
     align-items: left;
+    text-align: inherit;
     
 }
 .image button {
@@ -17,7 +18,7 @@
 
 }
 .image:hover{
-    transform: scale(1.50);
+    transform: scale(1.05);
 }
 .container {
     padding-top: 10px;
