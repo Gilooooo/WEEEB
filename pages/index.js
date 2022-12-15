@@ -35,11 +35,11 @@ export default function WEB() {
         </div>
       <div className={styles.navbarActions}>
         <div className={styles.login}>
-        <a href="http://eos-webapp.vercel.app/WEB">
+        <a href="http://eos-webapp.vercel.app/login">
         <button>Login</button>
         </a>
         </div>
-        <a href="http://eos-webapp.vercel.app/WEB"><button>Register</button></a>
+        <a href="http://eos-webapp.vercel.app/reg"><button>Register</button></a>
          <button onClick={handleClick}>Contact</button>
       </div>
     </div>     
